@@ -1,7 +1,7 @@
 #Project Attributes.
 #TunerStudio by EFI Analytics, Inc
-#Last Saved on: Wed Apr 08 13:43:17 SGT 2026
-#Wed Apr 08 13:43:17 SGT 2026
+#Last Saved on: Sun Apr 19 23:07:00 SGT 2026
+#Sun Apr 19 23:07:00 SGT 2026
 fuelpumpFuel\ pump_height=225
 iacClosedLoop_curveIdle\ RPM\ Targets_height=456
 fanSettingsFan\ Settings_width=386
@@ -290,11 +290,11 @@ mapCalCalibrate\ MAP_width=377
 sparkSettingsSpark\ Settings_height=497
 fuelpumpFuel\ pump_width=275
 ASEAfterstart\ Enrichment(ASE)_Y=52
-ASEAfterstart\ Enrichment(ASE)_X=21
 crankPWCranking\ Settings_Y=-901
+ASEAfterstart\ Enrichment(ASE)_X=21
 crankPWCranking\ Settings_X=-453
 clt_advance_curveCold\ Advance_height=430
-dashBoardFile=/dashboard//dashboard.dash
 ecuConfigFile=mainController.ini
+dashBoardFile=/dashboard//dashboard.dash
 vssSettingsVSS\ and\ Gear\ detection_width=385
 CommSettingCM-WSW-042CommDriver.RS232\ Serial\ InterfaceCom\ Port=COM3
