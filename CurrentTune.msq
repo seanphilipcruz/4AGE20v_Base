@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
 <msq xmlns="http://www.msefi.com/:msq">
-<bibliography author="TunerStudio MS Lite! 3.3.01 - EFI Analytics, Inc." tuneComment="" writeDate="Tue Sep 22 21:22:35 SGT 2026"/>
+<bibliography author="TunerStudio MS Lite! 3.3.01 - EFI Analytics, Inc." tuneComment="" writeDate="Tue Sep 22 21:26:39 SGT 2026"/>
 <versionInfo fileFormat="5.0" firmwareInfo="Speeduino+2025.01.6" nPages="15" signature="speeduino 202501"/>
 <page>
 <pcVariable name="tsCanId">"CAN ID 0"</pcVariable>
@@ -817,7 +817,7 @@
          15.0 
          13.0 
          6.0 
-         0.0 
+         1.0 
          0.0 
          -1.0 
       </constant>
@@ -1116,7 +1116,7 @@
          54.0 
          90.0 
       </constant>
-<constant name="iacAlgorithm">"PWM Closed+Open loop"</constant>
+<constant name="iacAlgorithm">"PWM Closed loop"</constant>
 <constant name="iacStepTime">"3"</constant>
 <constant name="iacChannels">"2"</constant>
 <constant name="iacPWMdir">"Reverse"</constant>
