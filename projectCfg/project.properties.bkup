@@ -1,7 +1,7 @@
 #Project Attributes.
 #TunerStudio by EFI Analytics, Inc
-#Last Saved on: Wed Apr 08 13:43:17 SGT 2026
-#Wed Apr 08 13:43:17 SGT 2026
+#Last Saved on: Wed Sep 23 06:51:40 SGT 2026
+#Wed Sep 23 06:51:40 SGT 2026
 fuelpumpFuel\ pump_height=225
 iacClosedLoop_curveIdle\ RPM\ Targets_height=456
 fanSettingsFan\ Settings_width=386
@@ -137,8 +137,8 @@ gaugeLimitsGauge\ Limits_height=357
 dwell_correction_curveDwell\ voltage\ correction_width=358
 mapCalCalibrate\ MAP_height=562
 triggerSettingsTrigger\ Settings_height=581
-vvtSettingsVVT\ Control_Y=-979
-vvtSettingsVVT\ Control_X=-323
+vvtSettingsVVT\ Control_Y=0
+vvtSettingsVVT\ Control_X=0
 logFileDir=C\:\\Users\\sean.cruz\\Documents\\TunerStudioProjects\\4AGE20v_Base\\DataLogs
 sparkTblIgnition\ Advance\ Table_Y=-925
 sparkTblIgnition\ Advance\ Table_X=-79
