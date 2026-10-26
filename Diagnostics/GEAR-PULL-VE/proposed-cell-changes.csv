@@ -1,0 +1,8 @@
+RPM,TPS,current_VE,proposed_VE,change_percent,evidence,status
+2500,30,55,57,3.6363636363636376,4th gear pull,proposal only; not applied
+3000,30,55,57,3.6363636363636376,4th gear pull,proposal only; not applied
+3500,60,67,69,2.9850746268656803,4th gear pull,proposal only; not applied
+4000,60,68,71,4.4117647058823595,4th gear pull,proposal only; not applied
+4000,70,70,72,2.857142857142847,4th gear pull,proposal only; not applied
+4500,70,71,74,4.225352112676051,4th gear pull,proposal only; not applied
+4500,80,73,75,2.7397260273972712,4th gear pull,proposal only; not applied

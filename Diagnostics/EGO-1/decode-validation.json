@@ -1,0 +1,712 @@
+{
+  "source": "/Users/sean/TunerStudioProjects/4AGE20v_Base/DataLogs/EGO-1.mlg",
+  "sha256": "6896f863ee2145351835cc0938f3e76a11cd163c9ecc2f466a3eecbfffefb7fd",
+  "version": 2,
+  "timestamp_utc": "2026-10-24T01:10:18+00:00",
+  "info": "\"speeduino 202501: Speeduino 2025.01.6\"\n\"Capture Date: Sat Oct 24 09:10:18 PHT 2026, File author: TunerStudio MS Lite! version 3.3.01\"\n\n",
+  "records": 13657,
+  "fields": [
+    {
+      "name": "Time",
+      "units": "s",
+      "kind": 7,
+      "format": "f",
+      "offset": 0,
+      "scale": 1.0,
+      "shift": 0.0
+    },
+    {
+      "name": "SecL",
+      "units": "sec",
+      "kind": 0,
+      "format": "B",
+      "offset": 4,
+      "scale": 1.0,
+      "shift": 0.0
+    },
+    {
+      "name": "RPM",
+      "units": "rpm",
+      "kind": 2,
+      "format": "H",
+      "offset": 5,
+      "scale": 1.0,
+      "shift": 0.0
+    },
+    {
+      "name": "MAP",
+      "units": "kpa",
+      "kind": 2,
+      "format": "H",
+      "offset": 7,
+      "scale": 1.0,
+      "shift": 0.0
+    },
+    {
+      "name": "MAPxRPM",
+      "units": "",
+      "kind": 7,
+      "format": "f",
+      "offset": 9,
+      "scale": 1.0,
+      "shift": 0.0
+    },
+    {
+      "name": "TPS",
+      "units": "%",
+      "kind": 0,
+      "format": "B",
+      "offset": 13,
+      "scale": 0.5,
+      "shift": 0.0
+    },
+    {
+      "name": "AFR",
+      "units": "O2",
+      "kind": 0,
+      "format": "B",
+      "offset": 14,
+      "scale": 0.10000000149011612,
+      "shift": 0.0
+    },
+    {
+      "name": "Lambda",
+      "units": "",
+      "kind": 7,
+      "format": "f",
+      "offset": 15,
+      "scale": 1.0,
+      "shift": 0.0
+    },
+    {
+      "name": "IAT",
+      "units": "",
+      "kind": 7,
+      "format": "f",
+      "offset": 19,
+      "scale": 1.0,
+      "shift": 0.0
+    },
+    {
+      "name": "CLT",
+      "units": "",
+      "kind": 7,
+      "format": "f",
+      "offset": 23,
+      "scale": 1.0,
+      "shift": 0.0
+    },
+    {
+      "name": "Engine",
+      "units": "bits",
+      "kind": 0,
+      "format": "B",
+      "offset": 27,
+      "scale": 1.0,
+      "shift": 0.0
+    },
+    {
+      "name": "DFCO",
+      "units": "",
+      "kind": 0,
+      "format": "B",
+      "offset": 28,
+      "scale": 1.0,
+      "shift": 0.0
+    },
+    {
+      "name": "Gego",
+      "units": "%",
+      "kind": 0,
+      "format": "B",
+      "offset": 29,
+      "scale": 1.0,
+      "shift": 0.0
+    },
+    {
+      "name": "Gair",
+      "units": "%",
+      "kind": 0,
+      "format": "B",
+      "offset": 30,
+      "scale": 1.0,
+      "shift": 0.0
+    },
+    {
+      "name": "Gbattery",
+      "units": "",
+      "kind": 7,
+      "format": "f",
+      "offset": 31,
+      "scale": 1.0,
+      "shift": 0.0
+    },
+    {
+      "name": "Gwarm",
+      "units": "%",
+      "kind": 0,
+      "format": "B",
+      "offset": 35,
+      "scale": 1.0,
+      "shift": 0.0
+    },
+    {
+      "name": "Gbaro",
+      "units": "%",
+      "kind": 0,
+      "format": "B",
+      "offset": 36,
+      "scale": 1.0,
+      "shift": 0.0
+    },
+    {
+      "name": "Gammae",
+      "units": "%",
+      "kind": 2,
+      "format": "H",
+      "offset": 37,
+      "scale": 1.0,
+      "shift": 0.0
+    },
+    {
+      "name": "Accel Enrich",
+      "units": "%",
+      "kind": 0,
+      "format": "B",
+      "offset": 39,
+      "scale": 2.0,
+      "shift": 0.0
+    },
+    {
+      "name": "VE _Current",
+      "units": "%",
+      "kind": 0,
+      "format": "B",
+      "offset": 40,
+      "scale": 1.0,
+      "shift": 0.0
+    },
+    {
+      "name": "VE1",
+      "units": "%",
+      "kind": 0,
+      "format": "B",
+      "offset": 41,
+      "scale": 1.0,
+      "shift": 0.0
+    },
+    {
+      "name": "VE2",
+      "units": "%",
+      "kind": 0,
+      "format": "B",
+      "offset": 42,
+      "scale": 1.0,
+      "shift": 0.0
+    },
+    {
+      "name": "PW",
+      "units": "ms",
+      "kind": 2,
+      "format": "H",
+      "offset": 43,
+      "scale": 0.0010000000474974513,
+      "shift": 0.0
+    },
+    {
+      "name": "PW2",
+      "units": "ms",
+      "kind": 2,
+      "format": "H",
+      "offset": 45,
+      "scale": 0.0010000000474974513,
+      "shift": 0.0
+    },
+    {
+      "name": "PW3",
+      "units": "ms",
+      "kind": 2,
+      "format": "H",
+      "offset": 47,
+      "scale": 0.0010000000474974513,
+      "shift": 0.0
+    },
+    {
+      "name": "PW4",
+      "units": "ms",
+      "kind": 2,
+      "format": "H",
+      "offset": 49,
+      "scale": 0.0010000000474974513,
+      "shift": 0.0
+    },
+    {
+      "name": "AFR Target",
+      "units": "O2",
+      "kind": 0,
+      "format": "B",
+      "offset": 51,
+      "scale": 0.10000000149011612,
+      "shift": 0.0
+    },
+    {
+      "name": "Lambda Target",
+      "units": "",
+      "kind": 7,
+      "format": "f",
+      "offset": 52,
+      "scale": 1.0,
+      "shift": 0.0
+    },
+    {
+      "name": "Duty Cycle",
+      "units": "",
+      "kind": 7,
+      "format": "f",
+      "offset": 56,
+      "scale": 1.0,
+      "shift": 0.0
+    },
+    {
+      "name": "Duty Cycle _Staging",
+      "units": "",
+      "kind": 7,
+      "format": "f",
+      "offset": 60,
+      "scale": 1.0,
+      "shift": 0.0
+    },
+    {
+      "name": "TPS DOT",
+      "units": "%/s",
+      "kind": 3,
+      "format": "h",
+      "offset": 64,
+      "scale": 1.0,
+      "shift": 0.0
+    },
+    {
+      "name": "Advance _Current",
+      "units": "deg",
+      "kind": 1,
+      "format": "b",
+      "offset": 66,
+      "scale": 1.0,
+      "shift": 0.0
+    },
+    {
+      "name": "Dwell",
+      "units": "ms",
+      "kind": 2,
+      "format": "H",
+      "offset": 67,
+      "scale": 0.0010000000474974513,
+      "shift": 0.0
+    },
+    {
+      "name": "Dwell _Measured",
+      "units": "ms",
+      "kind": 2,
+      "format": "H",
+      "offset": 69,
+      "scale": 0.0010000000474974513,
+      "shift": 0.0
+    },
+    {
+      "name": "Battery V",
+      "units": "V",
+      "kind": 0,
+      "format": "B",
+      "offset": 71,
+      "scale": 0.10000000149011612,
+      "shift": 0.0
+    },
+    {
+      "name": "rpm/s",
+      "units": "rpm/s",
+      "kind": 3,
+      "format": "h",
+      "offset": 72,
+      "scale": 1.0,
+      "shift": 0.0
+    },
+    {
+      "name": "Boost PSI",
+      "units": "",
+      "kind": 7,
+      "format": "f",
+      "offset": 74,
+      "scale": 1.0,
+      "shift": 0.0
+    },
+    {
+      "name": "Boost cut",
+      "units": "",
+      "kind": 7,
+      "format": "f",
+      "offset": 78,
+      "scale": 1.0,
+      "shift": 0.0
+    },
+    {
+      "name": "Hard Launch",
+      "units": "",
+      "kind": 0,
+      "format": "B",
+      "offset": 82,
+      "scale": 1.0,
+      "shift": 0.0
+    },
+    {
+      "name": "Hard Limiter",
+      "units": "",
+      "kind": 0,
+      "format": "B",
+      "offset": 83,
+      "scale": 1.0,
+      "shift": 0.0
+    },
+    {
+      "name": "Idle Control",
+      "units": "",
+      "kind": 0,
+      "format": "B",
+      "offset": 84,
+      "scale": 1.0,
+      "shift": 0.0
+    },
+    {
+      "name": "IAC value",
+      "units": "6",
+      "kind": 0,
+      "format": "B",
+      "offset": 85,
+      "scale": 1.0,
+      "shift": 0.0
+    },
+    {
+      "name": "Idle Target RPM",
+      "units": "RPM",
+      "kind": 0,
+      "format": "B",
+      "offset": 86,
+      "scale": 10.0,
+      "shift": 0.0
+    },
+    {
+      "name": "Idle RPM Delta",
+      "units": "",
+      "kind": 7,
+      "format": "f",
+      "offset": 87,
+      "scale": 1.0,
+      "shift": 0.0
+    },
+    {
+      "name": "Baro Pressure",
+      "units": "kpa",
+      "kind": 0,
+      "format": "B",
+      "offset": 91,
+      "scale": 1.0,
+      "shift": 0.0
+    },
+    {
+      "name": "Fan",
+      "units": "",
+      "kind": 0,
+      "format": "B",
+      "offset": 92,
+      "scale": 1.0,
+      "shift": 0.0
+    },
+    {
+      "name": "Sync Loss #",
+      "units": "",
+      "kind": 0,
+      "format": "B",
+      "offset": 93,
+      "scale": 1.0,
+      "shift": 0.0
+    },
+    {
+      "name": "VVT1 Angle",
+      "units": "deg",
+      "kind": 3,
+      "format": "h",
+      "offset": 94,
+      "scale": 0.5,
+      "shift": 0.0
+    },
+    {
+      "name": "VVT1 Duty",
+      "units": "%",
+      "kind": 0,
+      "format": "B",
+      "offset": 96,
+      "scale": 0.5,
+      "shift": 0.0
+    },
+    {
+      "name": "Fuel Pressure",
+      "units": "PSI",
+      "kind": 0,
+      "format": "B",
+      "offset": 97,
+      "scale": 1.0,
+      "shift": 0.0
+    },
+    {
+      "name": "Oil Pressure",
+      "units": "PSI",
+      "kind": 0,
+      "format": "B",
+      "offset": 98,
+      "scale": 1.0,
+      "shift": 0.0
+    },
+    {
+      "name": "Loops/s",
+      "units": "loops",
+      "kind": 2,
+      "format": "H",
+      "offset": 99,
+      "scale": 1.0,
+      "shift": 0.0
+    },
+    {
+      "name": "Loops/rev",
+      "units": "",
+      "kind": 7,
+      "format": "f",
+      "offset": 101,
+      "scale": 1.0,
+      "shift": 0.0
+    },
+    {
+      "name": "Aux0",
+      "units": "",
+      "kind": 2,
+      "format": "H",
+      "offset": 105,
+      "scale": 1.0,
+      "shift": 0.0
+    },
+    {
+      "name": "Aux1",
+      "units": "",
+      "kind": 2,
+      "format": "H",
+      "offset": 107,
+      "scale": 1.0,
+      "shift": 0.0
+    },
+    {
+      "name": "Aux2",
+      "units": "",
+      "kind": 2,
+      "format": "H",
+      "offset": 109,
+      "scale": 1.0,
+      "shift": 0.0
+    },
+    {
+      "name": "Aux3",
+      "units": "",
+      "kind": 2,
+      "format": "H",
+      "offset": 111,
+      "scale": 1.0,
+      "shift": 0.0
+    },
+    {
+      "name": "Aux4",
+      "units": "",
+      "kind": 2,
+      "format": "H",
+      "offset": 113,
+      "scale": 1.0,
+      "shift": 0.0
+    },
+    {
+      "name": "Aux5",
+      "units": "",
+      "kind": 2,
+      "format": "H",
+      "offset": 115,
+      "scale": 1.0,
+      "shift": 0.0
+    },
+    {
+      "name": "Aux6",
+      "units": "",
+      "kind": 2,
+      "format": "H",
+      "offset": 117,
+      "scale": 1.0,
+      "shift": 0.0
+    },
+    {
+      "name": "Aux7",
+      "units": "",
+      "kind": 2,
+      "format": "H",
+      "offset": 119,
+      "scale": 1.0,
+      "shift": 0.0
+    },
+    {
+      "name": "Aux8",
+      "units": "",
+      "kind": 2,
+      "format": "H",
+      "offset": 121,
+      "scale": 1.0,
+      "shift": 0.0
+    },
+    {
+      "name": "Aux9",
+      "units": "",
+      "kind": 2,
+      "format": "H",
+      "offset": 123,
+      "scale": 1.0,
+      "shift": 0.0
+    },
+    {
+      "name": "Aux10",
+      "units": "",
+      "kind": 2,
+      "format": "H",
+      "offset": 125,
+      "scale": 1.0,
+      "shift": 0.0
+    },
+    {
+      "name": "Aux11",
+      "units": "",
+      "kind": 2,
+      "format": "H",
+      "offset": 127,
+      "scale": 1.0,
+      "shift": 0.0
+    },
+    {
+      "name": "Aux12",
+      "units": "",
+      "kind": 2,
+      "format": "H",
+      "offset": 129,
+      "scale": 1.0,
+      "shift": 0.0
+    },
+    {
+      "name": "Aux13",
+      "units": "",
+      "kind": 2,
+      "format": "H",
+      "offset": 131,
+      "scale": 1.0,
+      "shift": 0.0
+    },
+    {
+      "name": "Aux14",
+      "units": "",
+      "kind": 2,
+      "format": "H",
+      "offset": 133,
+      "scale": 1.0,
+      "shift": 0.0
+    },
+    {
+      "name": "Aux15",
+      "units": "",
+      "kind": 2,
+      "format": "H",
+      "offset": 135,
+      "scale": 1.0,
+      "shift": 0.0
+    },
+    {
+      "name": "Advance 1",
+      "units": "deg",
+      "kind": 1,
+      "format": "b",
+      "offset": 137,
+      "scale": 1.0,
+      "shift": 0.0
+    },
+    {
+      "name": "Advance 2",
+      "units": "deg",
+      "kind": 1,
+      "format": "b",
+      "offset": 138,
+      "scale": 1.0,
+      "shift": 0.0
+    },
+    {
+      "name": "FuelLoad",
+      "units": "% TPS",
+      "kind": 3,
+      "format": "h",
+      "offset": 139,
+      "scale": 0.25,
+      "shift": 0.0
+    },
+    {
+      "name": "IgnitionLoad",
+      "units": "% TPS",
+      "kind": 3,
+      "format": "h",
+      "offset": 141,
+      "scale": 0.25,
+      "shift": 0.0
+    },
+    {
+      "name": "Sync status",
+      "units": "",
+      "kind": 7,
+      "format": "f",
+      "offset": 143,
+      "scale": 1.0,
+      "shift": 0.0
+    },
+    {
+      "name": "Protection bits",
+      "units": "bits",
+      "kind": 16,
+      "format": "B",
+      "offset": 147,
+      "scale": 1,
+      "shift": 0,
+      "bits": [
+        "Engine Prot. RPM",
+        "Engine Prot. CLT"
+      ]
+    }
+  ],
+  "markers": [],
+  "counter_errors": [
+    {
+      "offset": 317766,
+      "reason": "counter",
+      "previous": 239,
+      "counter": 241
+    },
+    {
+      "offset": 913854,
+      "reason": "counter",
+      "previous": 40,
+      "counter": 42
+    },
+    {
+      "offset": 1510095,
+      "reason": "counter",
+      "previous": 98,
+      "counter": 100
+    }
+  ],
+  "checksums_passed": 13657,
+  "bytes_consumed": 2096391
+}

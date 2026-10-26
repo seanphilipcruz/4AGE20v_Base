@@ -1,0 +1,716 @@
+{
+  "runs": {
+    "1st gear": {
+      "header": [
+        "\"speeduino 202501: Speeduino 2025.01.6\"",
+        "\"Capture Date: Sat Oct 24 12:09:11 PHT 2026, File author: TunerStudio MS Lite! version 3.3.01\""
+      ],
+      "raw_rows": 1189,
+      "rows": 1188,
+      "excluded_initial_record": {
+        "Time": 39.069,
+        "SecL": 80,
+        "RPM": 2745,
+        "MAP": 17,
+        "MAPxRPM": 46665,
+        "TPS": 0.0,
+        "AFR": 17.7,
+        "Lambda": 1.204,
+        "IAT": 41,
+        "CLT": 68,
+        "Engine": 9,
+        "DFCO": 1,
+        "Gego": 100,
+        "Gair": 100,
+        "Gbattery": 100,
+        "Gwarm": 100,
+        "Gbaro": 100,
+        "Gammae": 0,
+        "Accel Enrich": 100,
+        "VE (Current": 53,
+        "VE1": 53,
+        "VE2": 0,
+        "PW": 0.0,
+        "PW2": 0.0,
+        "PW3": 0.0,
+        "PW4": 0.0,
+        "AFR Target": 14.7,
+        "Lambda Target": 1.0,
+        "Duty Cycle": 0.0,
+        "Duty Cycle (Staging": 0.0,
+        "TPS DOT": 0,
+        "Advance (Current": 17,
+        "Dwell": 3.0,
+        "Dwell (Measured": 3.005,
+        "Battery V": 13.6,
+        "rpm/s": -30,
+        "Boost PSI": -11.0,
+        "Boost cut": 0,
+        "Hard Launch": 0,
+        "Hard Limiter": 0,
+        "Idle Control": 1,
+        "IAC value": 50,
+        "Idle Target RPM": 1000,
+        "Idle RPM Delta": -1745,
+        "Baro Pressure": 93,
+        "Fan": 0,
+        "Sync Loss #": 49,
+        "VVT1 Angle": 0.0,
+        "VVT1 Duty": 0.0,
+        "Fuel Pressure": 12,
+        "Oil Pressure": 10,
+        "Loops/s": 2114,
+        "Loops/rev": 46.21,
+        "Aux0": 0,
+        "Aux1": 0,
+        "Aux2": 0,
+        "Aux3": 0,
+        "Aux4": 0,
+        "Aux5": 0,
+        "Aux6": 0,
+        "Aux7": 0,
+        "Aux8": 0,
+        "Aux9": 0,
+        "Aux10": 0,
+        "Aux11": 0,
+        "Aux12": 0,
+        "Aux13": 0,
+        "Aux14": 0,
+        "Aux15": 0,
+        "Advance 1": 17,
+        "Advance 2": 0,
+        "FuelLoad": 0.0,
+        "IgnitionLoad": 0.0,
+        "Sync status": 2,
+        "Engine Prot. RPM": "Off",
+        "Engine Prot. CLT": "Off"
+      },
+      "duration_s": 79.064,
+      "duplicate_times": 168,
+      "largest_gap_s": 0.14000000000000057,
+      "accepted_seconds": 0.0,
+      "saved_table_within_1_1_VE_points": true,
+      "sync_loss_start": 49,
+      "sync_loss_end": 49,
+      "launch_records": [],
+      "ranges": {
+        "RPM": [
+          883.0,
+          3395.0
+        ],
+        "TPS": [
+          0.0,
+          56.5
+        ],
+        "MAP": [
+          16.0,
+          93.0
+        ],
+        "AFR": [
+          11.1,
+          17.7
+        ],
+        "AFR Target": [
+          13.8,
+          15.2
+        ],
+        "CLT": [
+          66.0,
+          68.0
+        ],
+        "IAT": [
+          41.0,
+          45.0
+        ],
+        "Duty Cycle": [
+          0.0,
+          19.5
+        ]
+      },
+      "filter_failed_seconds_nonexclusive": {
+        "window_available": 1.0569999999999915,
+        "no_enrichment": 14.129999999999999,
+        "no_cut_or_launch": 12.389,
+        "settled_throttle": 4.267999999999999,
+        "settled_MAP": 8.925,
+        "constant_VVT_command": 0.0,
+        "synchronized": 0.0,
+        "loaded": 78.60499999999999,
+        "AFR_not_clipped": 12.198000000000002
+      }
+    },
+    "1st gear pull": {
+      "header": [
+        "\"speeduino 202501: Speeduino 2025.01.6\"",
+        "\"Capture Date: Sat Oct 24 12:10:36 PHT 2026, File author: TunerStudio MS Lite! version 3.3.01\""
+      ],
+      "raw_rows": 292,
+      "rows": 291,
+      "excluded_initial_record": {
+        "Time": 79.201,
+        "SecL": 164,
+        "RPM": 1005,
+        "MAP": 38,
+        "MAPxRPM": 38190,
+        "TPS": 0.0,
+        "AFR": 15.2,
+        "Lambda": 1.034,
+        "IAT": 45,
+        "CLT": 66,
+        "Engine": 9,
+        "DFCO": 0,
+        "Gego": 100,
+        "Gair": 100,
+        "Gbattery": 100,
+        "Gwarm": 100,
+        "Gbaro": 100,
+        "Gammae": 100,
+        "Accel Enrich": 100,
+        "VE (Current": 53,
+        "VE1": 53,
+        "VE2": 0,
+        "PW": 2.759,
+        "PW2": 2.759,
+        "PW3": 2.759,
+        "PW4": 2.759,
+        "AFR Target": 14.5,
+        "Lambda Target": 0.986,
+        "Duty Cycle": 2.3,
+        "Duty Cycle (Staging": 0.0,
+        "TPS DOT": 0,
+        "Advance (Current": 13,
+        "Dwell": 3.0,
+        "Dwell (Measured": 3.017,
+        "Battery V": 13.6,
+        "rpm/s": -40,
+        "Boost PSI": -8.0,
+        "Boost cut": 0,
+        "Hard Launch": 0,
+        "Hard Limiter": 0,
+        "Idle Control": 1,
+        "IAC value": 65,
+        "Idle Target RPM": 1000,
+        "Idle RPM Delta": -5,
+        "Baro Pressure": 93,
+        "Fan": 0,
+        "Sync Loss #": 49,
+        "VVT1 Angle": 0.0,
+        "VVT1 Duty": 0.0,
+        "Fuel Pressure": 12,
+        "Oil Pressure": 9,
+        "Loops/s": 1914,
+        "Loops/rev": 114.27,
+        "Aux0": 0,
+        "Aux1": 0,
+        "Aux2": 0,
+        "Aux3": 0,
+        "Aux4": 0,
+        "Aux5": 0,
+        "Aux6": 0,
+        "Aux7": 0,
+        "Aux8": 0,
+        "Aux9": 0,
+        "Aux10": 0,
+        "Aux11": 0,
+        "Aux12": 0,
+        "Aux13": 0,
+        "Aux14": 0,
+        "Aux15": 0,
+        "Advance 1": 13,
+        "Advance 2": 0,
+        "FuelLoad": 0.0,
+        "IgnitionLoad": 0.0,
+        "Sync status": 2,
+        "Engine Prot. RPM": "Off",
+        "Engine Prot. CLT": "Off"
+      },
+      "duration_s": 19.275,
+      "duplicate_times": 48,
+      "largest_gap_s": 0.14000000000000057,
+      "accepted_seconds": 0.5399999999999991,
+      "saved_table_within_1_1_VE_points": true,
+      "sync_loss_start": 49,
+      "sync_loss_end": 49,
+      "launch_records": [],
+      "ranges": {
+        "RPM": [
+          929.0,
+          7494.0
+        ],
+        "TPS": [
+          0.0,
+          100.0
+        ],
+        "MAP": [
+          12.0,
+          92.0
+        ],
+        "AFR": [
+          12.0,
+          17.7
+        ],
+        "AFR Target": [
+          12.8,
+          14.9
+        ],
+        "CLT": [
+          66.0,
+          66.0
+        ],
+        "IAT": [
+          45.0,
+          46.0
+        ],
+        "Duty Cycle": [
+          0.0,
+          50.2
+        ]
+      },
+      "filter_failed_seconds_nonexclusive": {
+        "window_available": 1.0770000000000004,
+        "no_enrichment": 9.523000000000003,
+        "no_cut_or_launch": 2.335000000000001,
+        "settled_throttle": 7.061999999999999,
+        "settled_MAP": 11.129999999999999,
+        "constant_VVT_command": 2.0660000000000007,
+        "synchronized": 0.0,
+        "loaded": 15.137999999999998,
+        "AFR_not_clipped": 2.405999999999999
+      }
+    },
+    "3rd gear pull": {
+      "header": [
+        "\"speeduino 202501: Speeduino 2025.01.6\"",
+        "\"Capture Date: Sat Oct 24 12:07:03 PHT 2026, File author: TunerStudio MS Lite! version 3.3.01\""
+      ],
+      "raw_rows": 876,
+      "rows": 875,
+      "excluded_initial_record": {
+        "Time": 560.507,
+        "SecL": 210,
+        "RPM": 1915,
+        "MAP": 56,
+        "MAPxRPM": 107240,
+        "TPS": 7.0,
+        "AFR": 12.9,
+        "Lambda": 0.878,
+        "IAT": 44,
+        "CLT": 68,
+        "Engine": 9,
+        "DFCO": 0,
+        "Gego": 100,
+        "Gair": 100,
+        "Gbattery": 100,
+        "Gwarm": 100,
+        "Gbaro": 100,
+        "Gammae": 100,
+        "Accel Enrich": 100,
+        "VE (Current": 52,
+        "VE1": 52,
+        "VE2": 0,
+        "PW": 3.588,
+        "PW2": 3.588,
+        "PW3": 3.588,
+        "PW4": 3.588,
+        "AFR Target": 14.7,
+        "Lambda Target": 1.0,
+        "Duty Cycle": 5.7,
+        "Duty Cycle (Staging": 0.0,
+        "TPS DOT": 0,
+        "Advance (Current": 17,
+        "Dwell": 3.0,
+        "Dwell (Measured": 3.043,
+        "Battery V": 13.5,
+        "rpm/s": 40,
+        "Boost PSI": -5.4,
+        "Boost cut": 0,
+        "Hard Launch": 0,
+        "Hard Limiter": 0,
+        "Idle Control": 1,
+        "IAC value": 50,
+        "Idle Target RPM": 1000,
+        "Idle RPM Delta": -915,
+        "Baro Pressure": 93,
+        "Fan": 0,
+        "Sync Loss #": 49,
+        "VVT1 Angle": 0.0,
+        "VVT1 Duty": 0.0,
+        "Fuel Pressure": 12,
+        "Oil Pressure": 10,
+        "Loops/s": 1946,
+        "Loops/rev": 60.97,
+        "Aux0": 0,
+        "Aux1": 0,
+        "Aux2": 0,
+        "Aux3": 0,
+        "Aux4": 0,
+        "Aux5": 0,
+        "Aux6": 0,
+        "Aux7": 0,
+        "Aux8": 0,
+        "Aux9": 0,
+        "Aux10": 0,
+        "Aux11": 0,
+        "Aux12": 0,
+        "Aux13": 0,
+        "Aux14": 0,
+        "Aux15": 0,
+        "Advance 1": 17,
+        "Advance 2": 0,
+        "FuelLoad": 7.0,
+        "IgnitionLoad": 7.0,
+        "Sync status": 2,
+        "Engine Prot. RPM": "Off",
+        "Engine Prot. CLT": "Off"
+      },
+      "duration_s": 58.34,
+      "duplicate_times": 148,
+      "largest_gap_s": 0.20000000000000284,
+      "accepted_seconds": 2.4450000000000003,
+      "saved_table_within_1_1_VE_points": true,
+      "sync_loss_start": 49,
+      "sync_loss_end": 49,
+      "launch_records": [
+        {
+          "Time": 55.007,
+          "RPM": 5113,
+          "TPS": 77.0,
+          "AFR": 14.1,
+          "AFR Target": 12.9
+        },
+        {
+          "Time": 55.208,
+          "RPM": 5195,
+          "TPS": 81.5,
+          "AFR": 14.0,
+          "AFR Target": 12.8
+        },
+        {
+          "Time": 55.54,
+          "RPM": 5309,
+          "TPS": 79.5,
+          "AFR": 14.4,
+          "AFR Target": 12.9
+        },
+        {
+          "Time": 55.744,
+          "RPM": 5330,
+          "TPS": 84.0,
+          "AFR": 14.8,
+          "AFR Target": 12.8
+        }
+      ],
+      "ranges": {
+        "RPM": [
+          1535.0,
+          5564.0
+        ],
+        "TPS": [
+          0.0,
+          84.0
+        ],
+        "MAP": [
+          12.0,
+          91.0
+        ],
+        "AFR": [
+          10.8,
+          17.7
+        ],
+        "AFR Target": [
+          12.8,
+          15.2
+        ],
+        "CLT": [
+          68.0,
+          68.0
+        ],
+        "IAT": [
+          43.0,
+          44.0
+        ],
+        "Duty Cycle": [
+          0.0,
+          33.2
+        ]
+      },
+      "filter_failed_seconds_nonexclusive": {
+        "window_available": 1.199999999999999,
+        "no_enrichment": 21.373,
+        "no_cut_or_launch": 11.349000000000004,
+        "settled_throttle": 14.483999999999995,
+        "settled_MAP": 23.49999999999999,
+        "constant_VVT_command": 2.2049999999999983,
+        "synchronized": 0.0,
+        "loaded": 47.413,
+        "AFR_not_clipped": 5.195000000000004
+      }
+    },
+    "4th gear pull": {
+      "header": [
+        "\"speeduino 202501: Speeduino 2025.01.6\"",
+        "\"Capture Date: Sat Oct 24 12:08:17 PHT 2026, File author: TunerStudio MS Lite! version 3.3.01\""
+      ],
+      "raw_rows": 587,
+      "rows": 586,
+      "excluded_initial_record": {
+        "Time": 58.407,
+        "SecL": 27,
+        "RPM": 2409,
+        "MAP": 19,
+        "MAPxRPM": 45771,
+        "TPS": 0.0,
+        "AFR": 17.7,
+        "Lambda": 1.204,
+        "IAT": 42,
+        "CLT": 68,
+        "Engine": 9,
+        "DFCO": 1,
+        "Gego": 100,
+        "Gair": 100,
+        "Gbattery": 100,
+        "Gwarm": 100,
+        "Gbaro": 100,
+        "Gammae": 0,
+        "Accel Enrich": 100,
+        "VE (Current": 52,
+        "VE1": 52,
+        "VE2": 0,
+        "PW": 0.0,
+        "PW2": 0.0,
+        "PW3": 0.0,
+        "PW4": 0.0,
+        "AFR Target": 14.7,
+        "Lambda Target": 1.0,
+        "Duty Cycle": 0.0,
+        "Duty Cycle (Staging": 0.0,
+        "TPS DOT": 0,
+        "Advance (Current": 16,
+        "Dwell": 3.0,
+        "Dwell (Measured": 3.013,
+        "Battery V": 13.6,
+        "rpm/s": 10,
+        "Boost PSI": -10.7,
+        "Boost cut": 0,
+        "Hard Launch": 0,
+        "Hard Limiter": 0,
+        "Idle Control": 1,
+        "IAC value": 50,
+        "Idle Target RPM": 1000,
+        "Idle RPM Delta": -1409,
+        "Baro Pressure": 93,
+        "Fan": 0,
+        "Sync Loss #": 49,
+        "VVT1 Angle": 0.0,
+        "VVT1 Duty": 0.0,
+        "Fuel Pressure": 12,
+        "Oil Pressure": 10,
+        "Loops/s": 2116,
+        "Loops/rev": 52.7,
+        "Aux0": 0,
+        "Aux1": 0,
+        "Aux2": 0,
+        "Aux3": 0,
+        "Aux4": 0,
+        "Aux5": 0,
+        "Aux6": 0,
+        "Aux7": 0,
+        "Aux8": 0,
+        "Aux9": 0,
+        "Aux10": 0,
+        "Aux11": 0,
+        "Aux12": 0,
+        "Aux13": 0,
+        "Aux14": 0,
+        "Aux15": 0,
+        "Advance 1": 16,
+        "Advance 2": 0,
+        "FuelLoad": 0.0,
+        "IgnitionLoad": 0.0,
+        "Sync status": 2,
+        "Engine Prot. RPM": "Off",
+        "Engine Prot. CLT": "Off"
+      },
+      "duration_s": 38.998999999999995,
+      "duplicate_times": 80,
+      "largest_gap_s": 0.14000000000000012,
+      "accepted_seconds": 13.665,
+      "saved_table_within_1_1_VE_points": true,
+      "sync_loss_start": 49,
+      "sync_loss_end": 49,
+      "launch_records": [],
+      "ranges": {
+        "RPM": [
+          2323.0,
+          4803.0
+        ],
+        "TPS": [
+          0.0,
+          79.5
+        ],
+        "MAP": [
+          14.0,
+          92.0
+        ],
+        "AFR": [
+          12.0,
+          17.7
+        ],
+        "AFR Target": [
+          12.9,
+          15.0
+        ],
+        "CLT": [
+          68.0,
+          68.0
+        ],
+        "IAT": [
+          41.0,
+          42.0
+        ],
+        "Duty Cycle": [
+          0.0,
+          30.8
+        ]
+      },
+      "filter_failed_seconds_nonexclusive": {
+        "window_available": 1.1290000000000013,
+        "no_enrichment": 21.941000000000003,
+        "no_cut_or_launch": 8.325,
+        "settled_throttle": 6.6699999999999955,
+        "settled_MAP": 4.935000000000002,
+        "constant_VVT_command": 2.267999999999997,
+        "synchronized": 0.0,
+        "loaded": 14.933,
+        "AFR_not_clipped": 6.720999999999993
+      }
+    }
+  },
+  "source_hashes": {
+    "DataLogs/1st gear.msl": "d7aeefd545e5e58b8947e3d6a4419176938811c56e28b455c7c28ec4c349f9da",
+    "DataLogs/1st gear pull.msl": "34ce41432a5d70b661f1d4c8ec9f3be02af2e871a6991cf96386d6004f9a311e",
+    "DataLogs/3rd gear pull.msl": "dfea740eb24ded186bd119ebb5d411245916b4fd448a74e0a695c6ac41033a4f",
+    "DataLogs/4th gear pull.msl": "bfc1f2363f09a39a01fa894e8a229ff10fff06fc281469034a3fab13d4ddf133",
+    "CurrentTune.msq": "3ded3080b9b490147501ed2dfd63c2b69117db5996c0306cf4ee8db361ab787b",
+    "projectCfg/mainController.ini": "b772b2d4703c99bba1de3c9bebc31560ec1833616d7008233e9c405be3ab208f"
+  },
+  "current_table_axes": {
+    "RPM": [
+      500.0,
+      1000.0,
+      1500.0,
+      2000.0,
+      2500.0,
+      3000.0,
+      3500.0,
+      4000.0,
+      4500.0,
+      5000.0,
+      5500.0,
+      6000.0,
+      6500.0,
+      7000.0,
+      8000.0,
+      9000.0
+    ],
+    "TPS": [
+      0.0,
+      5.0,
+      10.0,
+      15.0,
+      20.0,
+      25.0,
+      30.0,
+      35.0,
+      40.0,
+      45.0,
+      50.0,
+      60.0,
+      70.0,
+      80.0,
+      90.0,
+      100.0
+    ]
+  },
+  "changes": [
+    {
+      "RPM": 2500,
+      "TPS": 30,
+      "current_VE": 55,
+      "proposed_VE": 57,
+      "change_percent": 3.6363636363636376,
+      "evidence": "4th gear pull",
+      "status": "proposal only; not applied"
+    },
+    {
+      "RPM": 3000,
+      "TPS": 30,
+      "current_VE": 55,
+      "proposed_VE": 57,
+      "change_percent": 3.6363636363636376,
+      "evidence": "4th gear pull",
+      "status": "proposal only; not applied"
+    },
+    {
+      "RPM": 3500,
+      "TPS": 60,
+      "current_VE": 67,
+      "proposed_VE": 69,
+      "change_percent": 2.9850746268656803,
+      "evidence": "4th gear pull",
+      "status": "proposal only; not applied"
+    },
+    {
+      "RPM": 4000,
+      "TPS": 60,
+      "current_VE": 68,
+      "proposed_VE": 71,
+      "change_percent": 4.4117647058823595,
+      "evidence": "4th gear pull",
+      "status": "proposal only; not applied"
+    },
+    {
+      "RPM": 4000,
+      "TPS": 70,
+      "current_VE": 70,
+      "proposed_VE": 72,
+      "change_percent": 2.857142857142847,
+      "evidence": "4th gear pull",
+      "status": "proposal only; not applied"
+    },
+    {
+      "RPM": 4500,
+      "TPS": 70,
+      "current_VE": 71,
+      "proposed_VE": 74,
+      "change_percent": 4.225352112676051,
+      "evidence": "4th gear pull",
+      "status": "proposal only; not applied"
+    },
+    {
+      "RPM": 4500,
+      "TPS": 80,
+      "current_VE": 73,
+      "proposed_VE": 75,
+      "change_percent": 2.7397260273972712,
+      "evidence": "4th gear pull",
+      "status": "proposal only; not applied"
+    }
+  ],
+  "method": {
+    "nominal_delay_s": 0.4,
+    "sensitivity_delay_s": [
+      0,
+      0.2,
+      0.4,
+      0.6
+    ],
+    "normal_window": "approximately t-0.5 through t+0.6",
+    "launch_guard": "approximately t-1 through t+0.6",
+    "steady_RPM_required": false,
+    "model": "proposed_AFR = measured_delayed_AFR / (proposed_interpolated_VE / saved_interpolated_VE)",
+    "model_status": "Unvalidated prediction assuming same airflow and fuel delivery; not a measurement",
+    "checksums": "No per-record checksum available in text exports",
+    "ECU_or_tune_modified": false
+  }
+}
