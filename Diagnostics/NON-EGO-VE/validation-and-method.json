@@ -1,0 +1,222 @@
+{
+  "runs": {
+    "NON EGO-1": {
+      "header": [
+        "\"speeduino 202501: Speeduino 2025.01.6\"",
+        "\"Capture Date: Sat Oct 24 11:48:14 PHT 2026, File author: TunerStudio MS Lite! version 3.3.01\""
+      ],
+      "rows": 6441,
+      "removed_stale_initial_row": {
+        "Time": 751.154,
+        "SecL": 122.0,
+        "RPM": 1593.0,
+        "MAP": 38.0,
+        "MAPxRPM": 60534.0,
+        "TPS": 2.0,
+        "AFR": 12.2,
+        "Lambda": 0.83,
+        "IAT": 54.0,
+        "CLT": 69.0,
+        "Engine": 9.0,
+        "DFCO": 0.0,
+        "Gego": 100.0,
+        "Gair": 100.0,
+        "Gbattery": 100.0,
+        "Gwarm": 100.0,
+        "Gbaro": 100.0,
+        "Gammae": 100.0,
+        "Accel Enrich": 100.0,
+        "VE (Current": 53.0,
+        "VE1": 53.0,
+        "VE2": 0.0,
+        "PW": 2.759,
+        "PW2": 2.759,
+        "PW3": 2.759,
+        "PW4": 2.759,
+        "AFR Target": 14.7,
+        "Lambda Target": 1.0,
+        "Duty Cycle": 3.7,
+        "Duty Cycle (Staging": 0.0,
+        "TPS DOT": 0.0,
+        "Advance (Current": 14.0,
+        "Dwell": 3.0,
+        "Dwell (Measured": 3.014,
+        "Battery V": 13.3,
+        "rpm/s": 20.0,
+        "Boost PSI": -8.0,
+        "Boost cut": 0.0,
+        "Hard Launch": 0.0,
+        "Hard Limiter": 0.0,
+        "Idle Control": 1.0,
+        "IAC value": 50.0,
+        "Idle Target RPM": 1000.0,
+        "Idle RPM Delta": -593.0,
+        "Baro Pressure": 93.0,
+        "Fan": 0.0,
+        "Sync Loss #": 41.0,
+        "VVT1 Angle": 0.0,
+        "VVT1 Duty": 0.0,
+        "Fuel Pressure": 12.0,
+        "Oil Pressure": 10.0,
+        "Loops/s": 1951.0,
+        "Loops/rev": 73.48,
+        "Aux0": 0.0,
+        "Aux1": 0.0,
+        "Aux2": 0.0,
+        "Aux3": 0.0,
+        "Aux4": 0.0,
+        "Aux5": 0.0,
+        "Aux6": 0.0,
+        "Aux7": 0.0,
+        "Aux8": 0.0,
+        "Aux9": 0.0,
+        "Aux10": 0.0,
+        "Aux11": 0.0,
+        "Aux12": 0.0,
+        "Aux13": 0.0,
+        "Aux14": 0.0,
+        "Aux15": 0.0,
+        "Advance 1": 14.0,
+        "Advance 2": 0.0,
+        "FuelLoad": 2.0,
+        "IgnitionLoad": 2.0,
+        "Sync status": 2.0,
+        "Engine Prot. RPM": 0.0,
+        "Engine Prot. CLT": 0.0
+      },
+      "duration_s": 429.547,
+      "duplicate_timestamps": 957,
+      "max_gap_s": 0.15999999999996817,
+      "accepted_rows": 756,
+      "accepted_seconds": 50.65699999999994,
+      "Gego_unique": [
+        100
+      ],
+      "sync_loss_start": 41,
+      "sync_loss_end": 41,
+      "saved_VE_within_1_1_percent_of_rows": 64.0117994100295,
+      "failed_filter_seconds_nonexclusive": {
+        "complete_window": 2.546999999999997,
+        "no_enrichment": 265.62399999999985,
+        "no_cuts": 171.661,
+        "steady_TPS": 281.18399999999997,
+        "steady_MAP": 307.4930000000001,
+        "steady_RPM": 258.61900000000026,
+        "constant_logged_VE": 275.85700000000014,
+        "constant_VVT": 3.2680000000000007,
+        "sync": 0.0,
+        "not_closed_throttle_overrun": 116.649,
+        "AFR_not_ceiling": 108.969
+      },
+      "range": {
+        "RPM": [
+          725.0,
+          4621.0
+        ],
+        "TPS": [
+          0.0,
+          84.0
+        ],
+        "MAP": [
+          15.0,
+          92.0
+        ],
+        "AFR": [
+          10.2,
+          17.7
+        ],
+        "IAT": [
+          48.0,
+          54.0
+        ],
+        "CLT": [
+          69.0,
+          70.0
+        ]
+      }
+    },
+    "NON-EGO-2": {
+      "header": [
+        "\"speeduino 202501: Speeduino 2025.01.6\"",
+        "\"Capture Date: Sat Oct 24 11:57:37 PHT 2026, File author: TunerStudio MS Lite! version 3.3.01\""
+      ],
+      "rows": 8406,
+      "removed_stale_initial_row": null,
+      "duration_s": 560.441,
+      "duplicate_timestamps": 1211,
+      "max_gap_s": 0.1490000000000009,
+      "accepted_rows": 490,
+      "accepted_seconds": 32.559000000000054,
+      "Gego_unique": [
+        100
+      ],
+      "sync_loss_start": 49,
+      "sync_loss_end": 49,
+      "saved_VE_within_1_1_percent_of_rows": 100.0,
+      "failed_filter_seconds_nonexclusive": {
+        "complete_window": 2.609000000000073,
+        "no_enrichment": 394.21199999999965,
+        "no_cuts": 264.0019999999997,
+        "steady_TPS": 413.027,
+        "steady_MAP": 401.36899999999986,
+        "steady_RPM": 296.7010000000003,
+        "constant_logged_VE": 249.10900000000012,
+        "constant_VVT": 10.142000000000017,
+        "sync": 0.0,
+        "not_closed_throttle_overrun": 177.40799999999996,
+        "AFR_not_ceiling": 160.97399999999982
+      },
+      "range": {
+        "RPM": [
+          826.0,
+          5556.0
+        ],
+        "TPS": [
+          0.0,
+          100.0
+        ],
+        "MAP": [
+          12.0,
+          92.0
+        ],
+        "AFR": [
+          9.8,
+          17.7
+        ],
+        "IAT": [
+          44.0,
+          54.0
+        ],
+        "CLT": [
+          68.0,
+          71.0
+        ]
+      }
+    }
+  },
+  "source_hashes": {
+    "DataLogs/NON EGO-1.msl": "bbae8d0e3a26727705feae03e9be9743f4fcd2b9ad02e7e7cce036c90ea2aaae",
+    "DataLogs/NON-EGO-2.msl": "7abc3bfd560807978b8681004ce8a7bf764c12a43469c7b97ef3b6c2f3eb9605",
+    "CurrentTune.msq": "3defb40c0ae0b0d03e0e7cde261410aab2b4627bf1ce7800e830511979e13ea3",
+    "projectCfg/mainController.ini": "b772b2d4703c99bba1de3c9bebc31560ec1833616d7008233e9c405be3ab208f"
+  },
+  "formula": "VE_effective_estimate = logged_VE * measured_AFR_at_t_plus_delay / logged_target_at_t",
+  "delay_seconds": 0.4,
+  "sensitivity_seconds": [
+    0,
+    0.2,
+    0.4,
+    0.6
+  ],
+  "stability_window": "approximately t-2 to t+0.6, ending at first sample >= t+0.6",
+  "quantization_tolerance": "Saved table agreement uses 1.1 VE percentage points, not percent relative change",
+  "current_config": {
+    "algorithm": "\"TPS\"",
+    "multiplyMAP": "\"Fixed\"",
+    "includeAFR": "\"No\"",
+    "incorporateAFR": "\"No\"",
+    "reqFuel": "9.1",
+    "injOpen": "0.9"
+  },
+  "no_tune_changes": true
+}

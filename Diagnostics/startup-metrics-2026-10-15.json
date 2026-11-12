@@ -1,0 +1,116 @@
+[
+  {
+    "file": "2026-10-15_05.33.31.msl",
+    "sha256": "eafbb50617295f1bbc9164b1bf056cdf902d195cb50e445db595137d7b4caa41",
+    "mode_confirmed": "05.33.31 \u2014 pre-start command OFF (confirmed)",
+    "rows_after_removing_pre_reset_snapshot": 516,
+    "duplicate_timestamp_rows": 66,
+    "run_transition_log_seconds": 5.404,
+    "coolant_at_run_C": 32.0,
+    "target_at_run_RPM": 1140.0,
+    "first_100_percent_idle_after_run_s": 0.06099999999999994,
+    "first_1000_RPM_after_run_s": 7.736000000000001,
+    "first_1100_RPM_after_run_s": 8.4,
+    "mean_RPM_3_to_5_s_sample_weighted": 840.1034482758621,
+    "min_max_RPM_3_to_5_s": [
+      827.0,
+      857.0
+    ],
+    "total_fuel_correction_at_run_percent": 216.0,
+    "all_AFR_zero": true,
+    "all_TPS_zero": true,
+    "sync_loss_counter_start_end": [
+      0.0,
+      4.0
+    ],
+    "sync_counter_changes": [
+      {
+        "relative_time": -1.0060000000000002,
+        "RPM": 0.0,
+        "counter": 1.0
+      },
+      {
+        "relative_time": -0.6059999999999999,
+        "RPM": 0.0,
+        "counter": 2.0
+      },
+      {
+        "relative_time": 0.0,
+        "RPM": 779.0,
+        "counter": 3.0
+      },
+      {
+        "relative_time": 0.32699999999999996,
+        "RPM": 359.0,
+        "counter": 4.0
+      }
+    ],
+    "idle_command_range_first_8s_after_0_2s": [
+      100.0,
+      100.0
+    ],
+    "voltage_range_when_RPM_positive": [
+      10.3,
+      13.6
+    ],
+    "max_RPM_entire_capture": 1150.0,
+    "final_idle_command": 100.0
+  },
+  {
+    "file": "2026-10-15_05.34.12.msl",
+    "sha256": "0c5793529105f81ac9536a26fe0fcadd98b25bc5ed816663a7fc90440304afc0",
+    "mode_confirmed": "05.34.12 \u2014 pre-start command ON (confirmed)",
+    "rows_after_removing_pre_reset_snapshot": 839,
+    "duplicate_timestamp_rows": 181,
+    "run_transition_log_seconds": 5.4,
+    "coolant_at_run_C": 34.0,
+    "target_at_run_RPM": 1130.0,
+    "first_100_percent_idle_after_run_s": 0.13899999999999935,
+    "first_1000_RPM_after_run_s": 8.003,
+    "first_1100_RPM_after_run_s": 9.342,
+    "mean_RPM_3_to_5_s_sample_weighted": 787.0,
+    "min_max_RPM_3_to_5_s": [
+      766.0,
+      803.0
+    ],
+    "total_fuel_correction_at_run_percent": 213.0,
+    "all_AFR_zero": true,
+    "all_TPS_zero": true,
+    "sync_loss_counter_start_end": [
+      6.0,
+      10.0
+    ],
+    "sync_counter_changes": [
+      {
+        "relative_time": -1.5690000000000004,
+        "RPM": 0.0,
+        "counter": 7.0
+      },
+      {
+        "relative_time": -1.2620000000000005,
+        "RPM": 0.0,
+        "counter": 8.0
+      },
+      {
+        "relative_time": -0.6560000000000006,
+        "RPM": 281.0,
+        "counter": 9.0
+      },
+      {
+        "relative_time": -0.26200000000000045,
+        "RPM": 281.0,
+        "counter": 10.0
+      }
+    ],
+    "idle_command_range_first_8s_after_0_2s": [
+      100.0,
+      100.0
+    ],
+    "voltage_range_when_RPM_positive": [
+      10.6,
+      13.6
+    ],
+    "max_RPM_entire_capture": 1147.0,
+    "final_idle_command": 87.0
+  }
+]
