@@ -1,7 +1,7 @@
 #Project Attributes.
 #TunerStudio by EFI Analytics, Inc
-#Last Saved on: Thu Nov 19 07:02:13 PHT 2026
-#Thu Nov 19 07:02:13 PHT 2026
+#Last Saved on: Fri Nov 20 14:06:51 SGT 2026
+#Fri Nov 20 14:06:51 SGT 2026
 fuelpumpFuel\ pump_height=225
 iacClosedLoop_curveIdle\ RPM\ Targets_height=527
 fanSettingsFan\ Settings_width=386
@@ -24,7 +24,7 @@ airdensity_curveIAT\ density\ correction_X=817
 iacClosedLoop_curveIdle\ RPM\ Targets_X=693
 afrTable1Map3DAFR\ Table_Y=237
 afrTable1Map3DAFR\ Table_X=440
-tuneFileDir=/Users/sean/TunerStudioProjects/4AGE20v_Base
+tuneFileDir=C\:\\Users\\sean.cruz\\Documents\\TunerStudioProjects\\4AGE20v_Base
 afterstart_enrichment_time_showText=true
 lambdaTable1TblLambda\ Table_Y=318
 lambdaTable1TblLambda\ Table_X=766
@@ -152,8 +152,8 @@ triggerSettingsTrigger\ Settings_height=582
 vvtSettingsVVT\ Control_Y=39
 vvtSettingsVVT\ Control_X=567
 logFileDir=/Users/sean/TunerStudioProjects/4AGE20v_Base/DataLogs
-sparkTblIgnition\ Advance\ Table_Y=127
-sparkTblIgnition\ Advance\ Table_X=893
+sparkTblIgnition\ Advance\ Table_Y=129
+sparkTblIgnition\ Advance\ Table_X=591
 warmupWarmup\ Enrichment\ (WUE)\ -\ Percent\ Multiplier_width=1202
 engineProtectionHard\ Limit\ Configuration_width=535
 injector_voltage_curve_Auto\ Scale\ Y\ Axis\ Maximum=true
